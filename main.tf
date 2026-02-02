@@ -9,7 +9,7 @@ terraform {
   }
   
   cloud {
-    organization = "YOUR_ORG_NAME"  # Replace with your Terraform Cloud org
+    organization = "kanuparthi"  # Replace with your Terraform Cloud org
     
     workspaces {
       name = "aws-infra-pipeline"
